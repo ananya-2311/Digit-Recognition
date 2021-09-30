@@ -1,4 +1,4 @@
 # Digit-Recognition
 Recognizes handwritten digits using machine learning.
 
-Accuracy: 99.12%
+Accuracy: 99.21%
